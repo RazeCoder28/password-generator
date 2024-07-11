@@ -25,4 +25,4 @@ You can try the live demo of the Password Generator [here](https://password-gene
 If you have any questions, suggestions, or feedback, feel free to reach out.
 
 - Email: [prasannapandhare20160@gmail.com](prasannapandhare20160@gmail.com)
-- GitHub: [Prasannapandhare]()
+- GitHub: [Prasannapandhare](https://github.com/Prasannapandhare)
