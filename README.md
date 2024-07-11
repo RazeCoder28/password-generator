@@ -21,7 +21,7 @@ You can try the live demo of the Password Generator [here](https://password-gene
 - **CSS:** Style the web page for a better user experience.
 - **JavaScript:** Add functionality to generate passwords and handle user interactions.
 
-## Contact
+### Contact
 If you have any questions, suggestions, or feedback, feel free to reach out.
 
 - Email: [prasannapandhare20160@gmail.com](prasannapandhare20160@gmail.com)
